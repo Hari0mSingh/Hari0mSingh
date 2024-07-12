@@ -1,5 +1,5 @@
-# 💫 About Me:
-Aspiring to become a professional Pentester, My dedication lies in continuously advancing my expertise in Web penetration testing.<br><br>I'm actively exploring opportunities to broaden my horizons and contribute my expertise to innovative projects in the realm of cybersecurity. If you're seeking a motivated and skilled individual to join your team, please feel free to connect with me. Through our collaborative efforts, we can design secure solutions with a notable impact in the realm of technology.<br><br> Skills:<br><br>Web Application Penetration Testing<br>Vulnerability Assessment<br>Programming (Python, JavaScript)<br>HTML, CSS<br>Computer Networking<br>Linux and Windows Environments<br>GitHub<br>OWASP Top 10<br><br>Tools Proficiency:<br><br>Burp Suite<br>Nmap<br>Metasploit Framework
+# 💫 Hi there:
+Aspiring to become a professional Pentester with a passion for advancing expertise in web penetration testing, Cyber Security and python scripting. Actively seeking opportunities to contribute innovative solutions to Cyber Security challenges.<br><br> Skills:<br><br>Web Application Penetration Testing<br>Vulnerability Assessment<br>Scripting Python <br>HTML, CSS<br>Computer Networking<br>Linux and Windows Environments<br>GitHub<br>OWASP Top 10<br><br>Tools Proficiency:<br><br>Burp Suite<br>Nmap<br>Metasploit Framework
 
 
 ## 🌐 Socials:

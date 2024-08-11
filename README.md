@@ -1,5 +1,26 @@
-# 💫 Hi there:
-I am a highly motivated and dedicated individual with a passion for cyber security and penetration testing. My strong work ethic and eagerness to learn drive me to continuously improve my skills in web application security, Python scripting, and vulnerability assessment.<br><br> Skills:<br><br>Penetration Testing<br>Vulnerability Assessment<br>OWASP Top 10<br><br>Tools Proficiency:<br><br>Burp Suite<br>Nmap<br>Metasploit Framework
+# 👋 Hi, I'm Hariom Singh
+
+## 🛡️ Penetration Tester | 🌐 Web Security Specialist | 🐍 Python Enthusiast
+
+I'm passionate about cyber security and constantly pushing the boundaries of digital defense. My journey in tech is driven by curiosity and a commitment to making the digital world safer.
+
+### 🔧 Skills & Tools
+- 🕵️‍♂️ Web Application Penetration Testing
+- 💻 Burp Suite & Metasploit
+- 🐍 Python Scripting
+- 🔐 Vulnerability Assessment
+- 🌐 Web Application Security
+
+### 🚀 What I'm up to
+- 🔍 Exploring new penetration testing techniques
+- 📚 Expanding my knowledge in cyber security
+- 🛠️ Developing Python scripts for security automation
+- 🤝 Collaborating on open-source security projects
+
+### 🎯 Goals
+- Contribute innovative solutions to cyber security challenges
+- Become a leader in the field of penetration testing
+- Share knowledge and inspire others in the security community
 
 
 ## 🌐 Socials:

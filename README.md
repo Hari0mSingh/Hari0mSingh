@@ -2,7 +2,7 @@
 
 ## 🛡️ Penetration Tester | 🌐 Web Security Specialist | 🐍 Python Enthusiast
 
-I'm passionate about cyber security and constantly pushing the boundaries of digital defense. My journey in tech is driven by curiosity and a commitment to making the digital world safer.
+I am a highly motivated and dedicated individual with a passion for cyber security and penetration testing. My strong work ethic and eagerness to learn drive me to continuously improve my skills in web application security, Python scripting, and vulnerability assessment.
 
 ### 🔧 Skills & Tools
 - 🕵️‍♂️ Web Application Penetration Testing

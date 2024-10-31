@@ -5,7 +5,6 @@ skills = [
     "Penetration Testing",
     "Application Security",
     "API Security",
-    "Network Security",
     "Python Scripting"
 ]
 for skill in skills:

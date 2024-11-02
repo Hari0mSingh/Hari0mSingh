@@ -8,7 +8,7 @@ skills = [
     "Python Scripting"
 ]
 for skill in skills:
-    print(f"Hariom excels at {skill} 🚀")`
+    print(f"Hariom excels at {skill} 🚀")
 ```
 ### 🛠️ Tools & Technologies
 

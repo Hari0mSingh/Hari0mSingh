@@ -4,6 +4,7 @@
 skills = [
     "Penetration Testing",
     "Application Security",
+    "Network Security",
     "API Security",
     "Python Scripting"
 ]
@@ -21,12 +22,6 @@ for skill in skills:
 -   📚 Expanding my knowledge in cybersecurity
 -   🛠️ Developing Python scripts for security automation
 -   🤝 Collaborating on cybersecurity projects
-
-### 🎯 Goals
-
--   Contribute innovative solutions to cybersecurity challenges
--   Become a leader in the field of penetration testing
--   Share knowledge and inspire others in the security community
 
 ## 🌐 Connect with Me
 

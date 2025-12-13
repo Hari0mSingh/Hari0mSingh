@@ -1,30 +1,32 @@
-# 👋 Hi, how's it going? I am Hariom Singh
+# 👋 Hi, I’m HariHacks — Offensive Security & VAPT
 
 ```python
-skills = [
-    "Penetration Testing",
-    "Application Security",
-    "Network Security",
-    "API Security",
-    "Python Scripting"
+focus_areas = [
+    "Vulnerability Assessment & Penetration Testing (VAPT)",
+    "Network & Active Directory Security",
+    "Web Application & API Security",
+    "Secure Configuration Reviews",
+    "Security Automation"
 ]
-for skill in skills:
-    print(f"Hariom excels at {skill} 🚀")
+
+for area in focus_areas:
+    print(f"Working on: {area} 🔐")
 ```
 ### 🛠️ Tools & Technologies
 
--   **Penetration Testing Tools**: Burp Suite, Nmap, Metasploit
--   **Languages**: Python (Scripting for automation, custom tools)
+-   **Security & Pentesting**: Burp Suite, Nmap, Metasploit
+-   **Scripting & Automation**: Python, PowerShell, Bash
+-   **Frameworks & Methodologies**: OWASP Top 10, OWASP WSTG, CIS Benchmarks, STIG
 
-### 🚀 What I'm Up To
+### 🚀 What You’ll Find Here
 
--   🔍 Exploring new penetration testing techniques
--   📚 Expanding my knowledge in cybersecurity
--   🛠️ Developing Python scripts for security automation
--   🤝 Collaborating on cybersecurity projects
+-   🔍 Hands-on pentesting labs (web, network, AD)
+-   🛠️ Automation scripts for security validation
+-   📄 Write-ups & notes from real-world testing and CTFs
+-   🧪 Secure configuration checks and testing workflows
 
 ## 🌐 Connect with Me
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/n2bcQwTJ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari0msingh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Hari0mSingh22)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/4z9JXndY) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari0msingh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Hari0mSingh22)
 
-## “Securing applications, one test at a time.”
+## “Simulating real-world attacks to help organizations fix what truly matters.”

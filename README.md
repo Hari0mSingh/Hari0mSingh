@@ -1,4 +1,4 @@
-# 👋 Hi, I’m HariHacks — Offensive Security & VAPT
+# 👋 Hi, I’m HariHax — Offensive Security & VAPT
 
 ```python
 focus_areas = [

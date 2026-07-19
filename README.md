@@ -1,32 +1,56 @@
-# 👋 Hi, I’m HariHax — Offensive Security & VAPT
+# 👋 Hi, I'm HariHax — Offensive Security
 
 ```python
-focus_areas = [
-    "Vulnerability Assessment & Penetration Testing (VAPT)",
-    "Network & Active Directory Security",
-    "Web Application & API Security",
-    "Secure Configuration Reviews",
-    "Security Automation"
-]
+class HariHax:
+    def __init__(self):
+        self.name    = "Hari om"
+        self.role    = "Offensive Security Engineer @ CyRAACS"
+        self.focus   = ["Web & API Security", "AI / LLM Red Teaming"]
+        self.certs   = ["eWPTX", "CRTA", "eJPT"]
+        self.next    = "HTB Certified Offensive AI Expert (COAE)"
+        self.mission = "Break it before the attackers do — then help fix it."
 
-for area in focus_areas:
-    print(f"Working on: {area} 🔐")
+    def currently(self):
+        return "Bug hunting · AI security research · building in public"
 ```
+
+---
+
+### 🎯 Focus Areas
+
+- **Web Application & API Security** — OWASP Top 10, IDOR/BOLA, BFLA, SSRF, SSTI, RCE, auth & business logic flaws, REST & GraphQL
+- **AI / LLM Red Teaming** — prompt injection (direct & indirect), jailbreaking, RAG attacks, agent/tool abuse, OWASP LLM Top 10, MITRE ATLAS
+- **Network & Active Directory** — internal/external pentesting, enumeration, privilege escalation, lateral movement
+- **Secure Configuration Reviews** — CIS Benchmarks, STIG, hardening validation
+
+---
+
 ### 🛠️ Tools & Technologies
 
--   **Security & Pentesting**: Burp Suite, Nmap, Metasploit
--   **Scripting & Automation**: Python, PowerShell, Bash
--   **Frameworks & Methodologies**: OWASP Top 10, OWASP WSTG, CIS Benchmarks, STIG
+- **Web & API**: Burp Suite, FFUF, Katana, Nuclei, Amass, Subfinder, HTTPX
+- **Network & AD**: Nmap, Nessus, Metasploit, Wireshark, BloodHound
+- **Scripting**: Python · Bash · PowerShell
+- **Frameworks**: OWASP Top 10, OWASP WSTG, OWASP LLM Top 10, MITRE ATLAS, CIS, STIG
 
-### 🚀 What You’ll Find Here
+---
 
--   🔍 Hands-on pentesting labs (web, network, AD)
--   🛠️ Automation scripts for security validation
--   📄 Write-ups & notes from real-world testing and CTFs
--   🧪 Secure configuration checks and testing workflows
+### 🚀 What You'll Find Here
 
-## 🌐 Connect with Me
+- 🔍 Security tooling & automation scripts
+- 📄 Write-ups from real-world testing, AI security research & CTFs
+- 🧪 Testing methodologies & workflows
+- 🤖 AI/LLM security experiments & notes
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/4z9JXndY) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari0msingh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Hari0mSingh22)
+---
 
-## “Simulating real-world attacks to help organizations fix what truly matters.”
+### 🌐 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-05070d.svg?logo=githubpages&logoColor=60a5fa)](https://hari0msingh.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari0msingh)
+[![Medium](https://img.shields.io/badge/Medium-black.svg?logo=medium&logoColor=white)](https://medium.com/@HariHax)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Hari_Hax)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Hari0mSingh22)
+
+---
+
+<p align="center"><i>"Simulating real-world attacks to help organizations fix what truly matters."</i></p>

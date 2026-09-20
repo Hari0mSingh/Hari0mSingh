@@ -1,4 +1,4 @@
-<img src="banner.png" alt="HariHax — Offensive Security Consultant" width="100%">
+<img src="github-banner-1280x340.png" alt="HariHax — Offensive Security" width="100%">
 
 <p align="center">
   <a href="https://hari0msingh.github.io"><img src="https://img.shields.io/badge/Portfolio-05070D?style=for-the-badge&logo=githubpages&logoColor=3B82F6"></a>
@@ -9,16 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Offensive+Security+Consultant+%40+CyRAACS;Web+%26+API+Penetration+Testing;AI%2FLLM+Red+Teaming;Manual-first.+Scanners+are+the+starting+line.">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=3B82F6&center=true&vCenter=true&width=600&lines=Offensive+Security;Security+Research;Manual-first+testing">
 </p>
 
 <br>
 
-I test web applications, APIs, and network infrastructure for fintech and enterprise
-clients. Manual-first — I chain authentication, authorization, and business logic flaws
-into demonstrated impact rather than handing over scanner output. Increasingly working
-on AI/LLM-integrated systems, where the methodology is least settled and the bugs are
-most interesting.
+Offensive security consultant working across applications, APIs, and infrastructure for fintech and enterprise clients. Manual-first — I chain authentication,authorization, and business logic flaws into demonstrated impact rather than handing over scanner output.
 
 Outside client work I hunt on public bug bounty programs and write up what I find.
 
@@ -36,50 +32,6 @@ Outside client work I hunt on public bug bounty programs and write up what I fin
 
 <br>
 
-## What I Work On
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Web & API
-OWASP Top 10<br>
-API Security Top 10<br>
-IDOR / BOLA · BFLA<br>
-SSRF · SSTI → RCE<br>
-Auth bypasses<br>
-Business logic<br>
-REST & GraphQL
-
-</td>
-<td width="33%" valign="top">
-
-### AI / LLM
-Prompt injection<br>
-(direct & indirect)<br>
-Jailbreaking<br>
-RAG pipeline attacks<br>
-Agent & tool abuse<br>
-OWASP LLM Top 10<br>
-MITRE ATLAS
-
-</td>
-<td width="33%" valign="top">
-
-### Network & Infra
-Internal pentesting<br>
-External pentesting<br>
-Segmentation testing<br>
-Service enumeration<br>
-Misconfiguration<br>
-analysis
-
-</td>
-</tr>
-</table>
-
-<br>
-
 ## Toolkit
 
 <p align="center">
@@ -89,11 +41,9 @@ analysis
 <p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite%20Pro-FF6633?style=flat-square&logo=burpsuite&logoColor=white">
   <img src="https://img.shields.io/badge/FFUF-1E293B?style=flat-square">
-  <img src="https://img.shields.io/badge/Katana-1E293B?style=flat-square">
   <img src="https://img.shields.io/badge/Nuclei-1E293B?style=flat-square">
   <img src="https://img.shields.io/badge/Amass-1E293B?style=flat-square">
   <img src="https://img.shields.io/badge/Subfinder-1E293B?style=flat-square">
-  <img src="https://img.shields.io/badge/HTTPX-1E293B?style=flat-square">
   <img src="https://img.shields.io/badge/Nmap-1E293B?style=flat-square">
   <img src="https://img.shields.io/badge/Nessus-1E293B?style=flat-square">
   <img src="https://img.shields.io/badge/Metasploit-1E293B?style=flat-square">
@@ -107,10 +57,7 @@ analysis
 <p align="center">
   <img src="https://img.shields.io/badge/eWPTX-Web%20App%20Pentester%20eXtreme-3B82F6?style=for-the-badge&labelColor=05070D">
   <img src="https://img.shields.io/badge/CRTA-Certified%20Red%20Team%20Analyst-8B5CF6?style=for-the-badge&labelColor=05070D">
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/eJPT-Junior%20Penetration%20Tester-3B82F6?style=for-the-badge&labelColor=05070D">
-  <img src="https://img.shields.io/badge/COAE-In%20Progress-64748B?style=for-the-badge&labelColor=05070D">
 </p>
 
 <br>
